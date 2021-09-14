@@ -1,0 +1,14 @@
+  #######################################################
+ #               MacPro7,1 SMBIOS Info                 #
+#######################################################
+
+Type:         MacPro7,1
+Serial:       F5KCRRYVP7QM
+Board Serial: F5K021600GUK3F71M
+SmUUID:       4ADD1A3E-9AC9-4C44-A331-F3831130D08A
+
+Flushing SMBIOS entry to /Users/oleg/projects/Gigabyte-C246-WU4-Hackintosh-OC/EFI/OC/config.plist
+
+Press [enter] to return...
+
+
